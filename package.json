@@ -1,0 +1,41 @@
+{
+  "name": "tcp-udp-protocols-with-nodejs",
+  "version": "1.0.0",
+  "description": "sender and receiver servers with tcp and udp protocols .. ",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/tcp-udp-protocols-with-nodejs.git"
+  },
+  "keywords": [
+    "tcp",
+    "udp",
+    "network",
+    "transport-layer",
+    "tcp/ip",
+    "osi",
+    "isetn",
+    "isamm",
+    "it",
+    "cs",
+    "socket",
+    "nodejs",
+    "uuid",
+    "native",
+    "services"
+  ],
+  "author": "imed jaberi <imed_jebari@hotmail.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/tcp-udp-protocols-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/tcp-udp-protocols-with-nodejs#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
